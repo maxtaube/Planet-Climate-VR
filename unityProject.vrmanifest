@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.planetclimatevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\kpmi_19_klima\\Downloads\\Planet_Climate\\Planet-Climate-VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Planet Climate VR [Testing]"
+        }
+      }
+    }
+  ]
+}
